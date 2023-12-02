@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "images/icon.jpg"
+#profile_picture = "images/icon.jpg"
 about_me = "I'm Li Fan, a 1st year Computer Science student at Georgia Tech!"
 
 
