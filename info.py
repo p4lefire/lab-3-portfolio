@@ -32,7 +32,7 @@ course_data = {
     }
 experience_data = {
     "DramaTech Lights Assistant": (["- Worked on hanging up lights",
-                                                                          "- Assisted with lighting design", "- Helped focus lights"],"images/DramaTech.jpg"),
+                                                                          "- Assisted with lighting design", "- Helped focus lights"],"Images/DramaTech.jpg"),
 
 }
 
@@ -59,7 +59,7 @@ spoken_data = {
     "English": "Fluent",
 }
 hs_data = {
-    "Mock Trial Lawyer": (["- Won multiple Outstanding Lawyer awards"],"images/mocktrial.png"),
+    "Mock Trial Lawyer": (["- Won multiple Outstanding Lawyer awards"],"Images/mocktrial.png"),
 
 }
 college_data={
